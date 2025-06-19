@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\ebba0142.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="24456" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiRXRnYWwgc290ZSBsb2NhdGlvbiAtIFxyXG5cclxuRWFjaCB0b3duIGluIElzcmFlbCBoYXMgYSBkZWZpbmVkXHJcbnRpbWUgdG8gcmVhY2ggdGhlIHByb3RlY3RlZCBzcGFjZS4gSW4gXHJcbnRoZSB2YXN0IG1ham9yaXR5IG9mIGNhc2VzLCB0aGUgXHJcbmR1cmF0aW9uIG9mIHRoZSBzaXJlbiBpcyBlcXVhbCB0byB0aGVcclxuYW1vdW50IG9mIHRpbWUgbmVlZGVkIHRvIGZpbmRcclxuc2hlbHRlci4gVGhpcyBpcyBob3cgeW91IHdpbGwga25vd1xyXG5ob3cgbXVjaCB0aW1lIHlvdSBtdXN0IGVudGVyIHRoZSBcclxucHJvdGVjdGVkIHNwYWNlLiBcclxuR0UgTyZNIEV0Z2FsIFBvd2VyIFBsYW50IGlzIGluXHJcbkFzaGRvZCBwb3J0LCBhcnJpdmFsIHRpbWUgdG9cclxucHJvdGVjdGVkIGFyZWE6IDQ1IHNlY29uZHNcclxuXHJcbiIsCiAidm9pY2VJZCI6ICJlbi1VUy1DaGlycC1IRC1PIiwKICJsYW5ndWFnZUNvZGUiOiAiZW4tVVMiLAogInN5bnRoZXNpemVySWQiOiAiZ29vZ2xlIiwKICJpc1RleHRSVEwiOiBmYWxzZSwKICJtYXJrdXBUeXBlIjogIlBsYWluVGV4dCIKfQo="/>
+  </customProperties>
+
+</mediaClip>

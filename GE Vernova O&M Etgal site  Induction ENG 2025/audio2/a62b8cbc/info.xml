@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\d6d97696.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="11880" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAi15zXl9eZ16bXlCDXotecINec15fXpteg15kg15fXmdeo15XXnSDigJMg15zXpteV15XXqiDXnteV16jXqdeUINeR15zXkdeTIFwi15zXl9eZ16bXlCDXotecINec15fXptefINeU15fXmdeo15XXnTog157Xldeq16jXqiDXqNenINec16bXldeV16og157Xldeo16nXlCDXldeR157Xp9eo15nXnSDXqdecINeh15vXoNeqINeX15nXmdedINeQ15Ug15vXkNep16gg16DXk9eo16nXqiDXm9eZ15HXldeZINee15nXmdeT15kg16nXnCDXlNee16LXqNeb16ouXHJcbiIsCiAidm9pY2VJZCI6ICJoZS1JTC1XYXZlbmV0LUMiLAogImxhbmd1YWdlQ29kZSI6ICJoZS1JTCIsCiAic3ludGhlc2l6ZXJJZCI6ICJnb29nbGUiLAogImlzVGV4dFJUTCI6IGZhbHNlLAogIm1hcmt1cFR5cGUiOiAiUGxhaW5UZXh0Igp9Cg=="/>
+  </customProperties>
+
+</mediaClip>
